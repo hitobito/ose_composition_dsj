@@ -1,3 +1,9 @@
 [submodule "hitobito"]
 	path = hitobito
+  branch = master
 	url = https://github.com/hitobito/hitobito.git
+
+[submodule "hitobito_dsj"]
+	path = hitobito_dsj
+  branch = master
+	url = https://github.com/hitobito/hitobito_dsj.git
