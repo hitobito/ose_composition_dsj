@@ -1,6 +1,6 @@
 [submodule "hitobito"]
   path = hitobito
-  branch = master
+  branch = rails-5
   url = https://github.com/hitobito/hitobito.git
 
 [submodule "hitobito_dsj"]
